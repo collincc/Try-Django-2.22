@@ -1,1 +1,7 @@
 this is a test file
+New stuff
+here
+and here
+and here
+this is pretty cool
+ok
